@@ -3,9 +3,9 @@ package handlers
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/dunkbing/tinyimg/tinyimg/config"
-	"github.com/dunkbing/tinyimg/tinyimg/image"
-	"github.com/dunkbing/tinyimg/tinyimg/utils"
+	"github.com/dedicatedcloud/tinyimg/tinyimg/config"
+	"github.com/dedicatedcloud/tinyimg/tinyimg/image"
+	"github.com/dedicatedcloud/tinyimg/tinyimg/utils"
 	"io"
 	"log/slog"
 	"net/http"

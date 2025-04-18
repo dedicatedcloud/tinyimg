@@ -1,4 +1,4 @@
-module github.com/dunkbing/tinyimg
+module github.com/dedicatedcloud/tinyimg
 
 go 1.22.0
 

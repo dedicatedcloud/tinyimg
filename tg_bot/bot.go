@@ -3,9 +3,9 @@ package tg_bot
 import (
 	"context"
 	"fmt"
-	"github.com/dunkbing/tinyimg/tinyimg/cache"
-	"github.com/dunkbing/tinyimg/tinyimg/config"
-	"github.com/dunkbing/tinyimg/tinyimg/utils"
+	"github.com/dedicatedcloud/tinyimg/tinyimg/cache"
+	"github.com/dedicatedcloud/tinyimg/tinyimg/config"
+	"github.com/dedicatedcloud/tinyimg/tinyimg/utils"
 	"github.com/go-telegram/bot"
 	"github.com/go-telegram/bot/models"
 	"github.com/redis/go-redis/v9"
@@ -185,10 +185,10 @@ Example:
 /playlist https://example.com/playlist
 
 💬 For support:
-TikTok: tiktok.com/@dunkbing
-Facebook: fb.com/dunkbinggg
-Instagram: instagram.com/dunkbingg
-X: x.com/dunkbingg
+TikTok: tiktok.com/@dedicatedcloud
+Facebook: fb.com/dedicatedcloudgg
+Instagram: instagram.com/dedicatedcloudg
+X: x.com/dedicatedcloudg
 `
 	_, err := b.SendMessage(ctx, &bot.SendMessageParams{
 		ChatID: update.Message.Chat.ID,

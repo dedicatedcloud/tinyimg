@@ -43,7 +43,7 @@ export default function Meta(props: MetaProps) {
       <meta name="twitter:title" content={props.title} />
       <meta name="twitter:description" content={props.description} />
       <meta name="twitter:image" content={props.imageUrl} />
-      <meta name="twitter:creator" content="@dunkbingg" />
+      <meta name="twitter:creator" content="@dedicatedcloudg" />
 
       <link rel="stylesheet" href="/switch.css" />
       <link rel="stylesheet" href="/styles.css" />

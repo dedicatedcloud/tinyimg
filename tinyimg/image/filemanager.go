@@ -2,9 +2,9 @@ package image
 
 import (
 	"fmt"
-	"github.com/dunkbing/tinyimg/tinyimg/cache"
-	"github.com/dunkbing/tinyimg/tinyimg/config"
-	"github.com/dunkbing/tinyimg/tinyimg/stat"
+	"github.com/dedicatedcloud/tinyimg/tinyimg/cache"
+	"github.com/dedicatedcloud/tinyimg/tinyimg/config"
+	"github.com/dedicatedcloud/tinyimg/tinyimg/stat"
 	"log/slog"
 	"runtime/debug"
 	"time"

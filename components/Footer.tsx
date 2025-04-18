@@ -71,7 +71,7 @@ export default function Footer(props: FooterProps) {
           <IconBrandFacebook class="h-12 w-12" />
         </a>
         <a
-          href="https://github.com/dunkbing/tinyimg"
+          href="https://github.com/dedicatedcloud/tinyimg"
           target="_blank"
           aria-label="TinyImg repo on GitHub"
           class={LINK_STYLES}
@@ -79,7 +79,7 @@ export default function Footer(props: FooterProps) {
           <IconBrandGithub class="h-12 w-12" />
         </a>
         <a
-          href="https://twitter.com/dunkbingg"
+          href="https://twitter.com/dedicatedcloudg"
           target="_blank"
           aria-label="Text2Audio developer on X"
           class={LINK_STYLES}
@@ -87,7 +87,7 @@ export default function Footer(props: FooterProps) {
           <IconBrandTwitter class="h-12 w-12" />
         </a>
         <a
-          href="https://www.tiktok.com/@dunkbing"
+          href="https://www.tiktok.com/@dedicatedcloud"
           target="_blank"
           aria-label="Text2Audio developer on Tiktok"
           class={LINK_STYLES}
@@ -102,10 +102,10 @@ export default function Footer(props: FooterProps) {
         Built by{" "}
         <a
           className="font-bold text-gray-900"
-          href="https://dunkbing.github.io/"
+          href="https://dedicatedcloud.github.io/"
           target="_blank"
         >
-          dunkbing
+          dedicatedcloud
         </a>
       </div>
     </footer>
